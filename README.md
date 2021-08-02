@@ -1,5 +1,7 @@
 # BEPUphysics v1
 
+## I do not typically maintain or support the fixed point ports of BEPUphysics v1! This repo contains only a little one-off fix, and I may delete it later. You may want to look into the forks this was forked from.
+
 *Looking for the newer bepuphysics v2? Head over to its [repository](https://github.com/bepu/bepuphysics2).*
 
 BEPUphysics is a pure C# 3D physics library by [BEPU](http://bepuphysics.com). It's fast and has a bunch of cool features like constraints, terrain, static and instanced meshes, continuous collision detection, custom collision rules, vehicles, easy multithreading, yadda yadda yadda.
